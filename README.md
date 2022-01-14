@@ -3,7 +3,7 @@ Seja lá quem for, seja bem vindo, cavaleiro! 👋
 
 Este ao lado, sou eu, Gabriel Milanez (Camiu) e sou o seu anfitrião.
 
-![Camus de Aquario](https://animesher.com/orig/1/158/1583/15831/animesher.com_cavaleiros-do-zodaco-aquarius-camus-saint-seiya-1583149.jpg)
+ <center>![Camus de Aquario](https://lh3.googleusercontent.com/-3eoikp0GMYM/YeHF5YB8KPI/AAAAAAAAKC4/NeiQanMgSmsn2m96obCX3hAhNrW9IjtWQCNcBGAsYHQ/c8313e9a13d264cf6779e4275d5364c3-removebg-preview.png)</center>
 
 🏛️ Aqui no meu santuário, possui várias casas ~~repositórios~~ onde você encontrará os meus objetos de estudo ou trabalho.
 
