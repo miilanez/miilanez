@@ -1,7 +1,6 @@
 # Humpf! Mas quem é você?! 
 Seja lá quem for, seja bem vindo, cavaleiro! 👋
 
-Este ao lado, sou eu, Gabriel Milanez (Camiu) e sou o seu anfitrião.
 
 <p align="center">
   <img src="https://lh3.googleusercontent.com/-3eoikp0GMYM/YeHF5YB8KPI/AAAAAAAAKC4/NeiQanMgSmsn2m96obCX3hAhNrW9IjtWQCNcBGAsYHQ/c8313e9a13d264cf6779e4275d5364c3-removebg-preview.png" alt="Camus de Aquario"/>
