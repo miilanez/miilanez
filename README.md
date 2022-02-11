@@ -4,7 +4,7 @@
   <img src="https://lh3.googleusercontent.com/-3eoikp0GMYM/YeHF5YB8KPI/AAAAAAAAKC4/NeiQanMgSmsn2m96obCX3hAhNrW9IjtWQCNcBGAsYHQ/c8313e9a13d264cf6779e4275d5364c3-removebg-preview.png" alt="Camus de Aquario"/>
 </p>
 
-Sejam bem vindos ao meu GitHub! 👋 Aqui é onde eu crio e desenvolvo minha paixão pelos recursos tecnológicos. Sou Dev e profissional de TI desde 2014 e acredito que potencial da tecnologia em ajudar as pessoas, não deve ser desperdiçado. 
+Sejam bem vindos ao meu GitHub! 👋 Aqui é onde eu crio e desenvolvo minha paixão pelos recursos tecnológicos. Sou profissional de TI desde 2014 e Dev Front-End a pouco tempo, mas eu acredito que potencial da tecnologia em ajudar as pessoas, não deve ser desperdiçado. 
 
 Aqui no meu santuário 🏛️, existem várias casas ~~repositórios~~ onde você encontrará os meus objetos de estudo ou trabalho.
 
@@ -45,6 +45,7 @@ Atualmente, eu estudo e desenvolvo nas seguintes tecnologias 👇
    <!-- LinkedIn -->
   <a href="http://linkedin.com/in/gabriel-milanez" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
+  ##
   
    <!-- Cobrinha de commits -->
   
