@@ -48,6 +48,6 @@ Atualmente, eu estudo e desenvolvo nas seguintes tecnologias 👇
   
    <!-- Cobrinha de commits -->
   
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/miilanez/miilanez/blob/output/github-contribution-grid-snake.svg)
  
 </div>
