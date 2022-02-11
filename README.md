@@ -20,14 +20,14 @@ Atualmente, eu estudo e desenvolvo nas seguintes tecnologias 👇
 <a href="https://github.com/miilanez/python" target="_blank"><img align="center" alt="Miila-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <a href="https://github.com/miilanez/java" target="_blank"><img align="center" alt="Miila-Java" height="50" width="60" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png">  
 <a href="https://github.com/miilanez/c" target="_blank"><img align="center" alt="Miila-Csharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
- 
- <!-- Imagem de perfil lateral --> 
-  <!-- <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676"> -->
+
+ <!-- Imagem de perfil lateral  
+   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676"> -->
 </div>
   
   ##
   
-  Se quiser ou precisar entrar em contato comigo, você pode tentar através das seguintes opções:
+  <p align="center" >Se quiser ou precisar entrar em contato comigo, você pode tentar através das seguintes opções: </p>
   
  <!-- Ícones de Redes Sociais -->
 <div align="center"> 
