@@ -1,8 +1,15 @@
 # Hey, eu sou o Gabriel Milanez!
 
 <p align="center">
-  <img src="https://lh3.googleusercontent.com/-3eoikp0GMYM/YeHF5YB8KPI/AAAAAAAAKC4/NeiQanMgSmsn2m96obCX3hAhNrW9IjtWQCNcBGAsYHQ/c8313e9a13d264cf6779e4275d5364c3-removebg-preview.png" alt="Camus de Aquario"/>
+  <img src="https://64.media.tumblr.com/8801941e060ca2060a3296f0b5ca13eb/3079efe3f242bd8d-93/s500x750/1a631b7ce7f8358d355bbd3d2037d9bd121f3951.png" alt="Phoenix_Ikki"/>
 </p>
+
+<!-- Chibi Camus 
+<p align="center">
+  <img src="https://camo.githubusercontent.com/4e26c20b53f684d1258289deb2cbb315e5aff8075fade8e296fbf3af1554f0de/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f2d33656f696b7030474d594d2f59654846355942384b50492f41414141414141414b43342f4e656951616e4d67536d736e326d39366f624358336841684e725739496a745751434e63424741735948512f63383331336539613133643236346366363737396534323735643533363463332d72656d6f766562672d707265766965772e706e67" alt="Camus de Aquario"/>
+</p> -->
+
+
 
 Sejam bem vindos ao meu GitHub! 👋 Aqui é onde eu crio e desenvolvo minha paixão pelos recursos tecnológicos. Sou profissional de TI desde 2014 e Dev Front-End a pouco tempo, mas eu acredito que potencial da tecnologia em ajudar as pessoas, não deve ser desperdiçado. 
 
