@@ -52,11 +52,5 @@ Atualmente, eu estudo e desenvolvo nas seguintes tecnologias 👇
   <a href = "mailto:gabrielmilanez99@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <!-- LinkedIn -->
   <a href="http://linkedin.com/in/gabriel-milanez" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-  ##
-  
-   <!-- Cobrinha de commits -->
-  
-  ![Snake animation](https://github.com/miilanez/miilanez/blob/output/github-contribution-grid-snake.svg)
  
 </div>
