@@ -11,22 +11,22 @@
 
 
 
-Sejam bem vindos ao meu GitHub! 👋 Aqui é onde eu crio e desenvolvo minha paixão pelos recursos tecnológicos. Sou profissional de TI desde 2014 e Dev Front-End a pouco tempo, mas eu acredito que potencial da tecnologia em ajudar as pessoas, não deve ser desperdiçado. 
+Sejam bem vindos ao meu GitHub! 👋 Aqui é onde eu crio e desenvolvo minha paixão pelos recursos tecnológicos. Sou profissional atuante no mercado de TI desde 2014 e Desenvolvedor FullStack desde 2022, sempre acreditando na capacidade potencial da tecnologia em tornar melhor o mundo em que vivemos, assim como a vida das pessoas.
 
-Aqui no meu santuário 🏛️, existem várias casas ~~repositórios~~ onde você encontrará os meus objetos de estudo ou trabalho.
+Aqui no meu santuário 🏛️, você encontrará os meus objetos de estudo ou trabalho, em diversos repositórios distintos.
 
 Atualmente, eu estudo e desenvolvo nas seguintes tecnologias 👇
 
 <!-- Ícones de Tecnologias -->
 <div style="display: inline_block" align="center"><br>
-<a href="https://github.com/miilanez/javascript" target="_blank"><img align="center" alt="Miila-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <!-- <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
-<img align="center" alt="Miila-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<a href="https://github.com/miilanez/front-end" target="_blank"><img align="center" alt="Miila-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<a href="https://github.com/miilanez/front-end" target="_blank"><img align="center" alt="Miila-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<a href="https://github.com/miilanez/python" target="_blank"><img align="center" alt="Miila-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<a href="https://github.com/miilanez/java" target="_blank"><img align="center" alt="Miila-Java" height="50" width="60" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png">  
-<a href="https://github.com/miilanez/c" target="_blank"><img align="center" alt="Miila-Csharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
+<a href="https://github.com/miilanez/javascript" target="_blank"><img align="center" alt="JavaScript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<a href="https://github.com/miilanez/javascript" target="_blank"><img align="center" alt="TypeScript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
+<a href="#" target="_blank"><img align="center" alt="React.js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<a href="https://github.com/miilanez/front-end" target="_blank"><img align="center" alt="Node.js" height="50" width="50" src="https://miro.medium.com/v2/resize:fit:800/1*v2vdfKqD4MtmTSgNP0o5cg.png">
+<a href="https://github.com/miilanez/front-end" target="_blank"><img align="center" alt="Tailwind CSS" height="50" width="50" src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/31/tailwind.png">
+<a href="https://github.com/miilanez/python" target="_blank"><img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<a href="#" target="_blank"><img align="center" alt="Angular.js" height="60" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png">  
+<a href="#" target="_blank"><img align="center" alt="Vue.js" height="60" width="50" src="https://www.golden-team.org/static/services/vuejs.webp"> 
 
  <!-- Imagem de perfil lateral  
    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676"> -->
